@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1e23ceaf-7dcb-48cb-8f4e-01be855c1473" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectId" id="1xG20cadXPQHHbjl51TJdD6SjgS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Flask" type="Python.FlaskServer" nameIsGenerated="true">
+      <module name="t" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="$USER_HOME$/anaconda3/envs/t/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1e23ceaf-7dcb-48cb-8f4e-01be855c1473" name="Changes" comment="" />
+      <created>1629966884387</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629966884387</updated>
+      <workItem from="1629966885813" duration="1015000" />
+      <workItem from="1629970724138" duration="46000" />
+      <workItem from="1629980573190" duration="2271000" />
+      <workItem from="1629988795959" duration="2684000" />
+      <workItem from="1629994533165" duration="1136000" />
+      <workItem from="1630044697776" duration="4809000" />
+      <workItem from="1630065974392" duration="1262000" />
+      <workItem from="1630068126710" duration="1302000" />
+      <workItem from="1630082694667" duration="1976000" />
+      <workItem from="1630108406733" duration="2742000" />
+      <workItem from="1630113610240" duration="571000" />
+      <workItem from="1630137625620" duration="341000" />
+      <workItem from="1630138477301" duration="7362000" />
+      <workItem from="1630186876015" duration="6107000" />
+      <workItem from="1630259959557" duration="1593000" />
+      <workItem from="1630302211119" duration="151000" />
+      <workItem from="1630306686949" duration="48000" />
+      <workItem from="1630307485182" duration="1206000" />
+      <workItem from="1630313715885" duration="294000" />
+      <workItem from="1630314850939" duration="794000" />
+      <workItem from="1630320468125" duration="607000" />
+      <workItem from="1630323512040" duration="1250000" />
+      <workItem from="1630344487379" duration="5397000" />
+      <workItem from="1630370002115" duration="723000" />
+      <workItem from="1630391426338" duration="34000" />
+      <workItem from="1630399287059" duration="66000" />
+      <workItem from="1630403248162" duration="2204000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
